@@ -1059,6 +1059,9 @@ function showAppointLabelSchool(){
                         <a href=${e.link} target="blank" style="">${e.name} </a> `;
         t_html1 += `<span style="float:right; "><a href="${e.quota}" target="_blank" style=""><i class="fas fa-search fa-fw" style="color:black"></i></a></span>`;
 
+        if(e.id == 80){
+          t_html1 += `<span style="float:right; "><a href="${e.quota2}" target="_blank" style=""><i class="fas fa-search fa-fw" style="color:black"></i></a></span>`;
+         }
         // if(e.email){
         //   t_html1 += `<span style="float:right; "><a href="mailto:${e.email}" target="_blank" style=""><i class="far fa-envelope fa-lg" style="color:crimson"></i></a></span>`;
         // }
