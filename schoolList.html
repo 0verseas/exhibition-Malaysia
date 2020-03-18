@@ -111,21 +111,32 @@
 
 <div style="padding-top:5%"></div>
 
-<!-- Getbutton.io widget -->
-<script type="text/javascript">
-  (function () {
-      var options = {
-          facebook: "642382289244917", // Facebook page ID
-          call_to_action: "你好！我們能如何協助你？", // Call to action
-          position: "right", // Position may be 'right' or 'left'
-      };
-      var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
-      var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
-      s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
-      var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-  })();
-</script>
-<!-- /Getbutton.io widget -->
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            xfbml            : true,
+            version          : 'v6.0'
+        });
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/zh_TW/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+     attribution=setup_tool
+     page_id="642382289244917"
+     theme_color="#99FF33"
+     logged_in_greeting="你好！我們能如何協助你？"
+     logged_out_greeting="你好！我們能如何協助你？">
+</div>
 
 </body>
 
