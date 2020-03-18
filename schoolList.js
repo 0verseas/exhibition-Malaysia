@@ -1054,7 +1054,7 @@ function showAppointLabelSchool(){
     
     var t_promise2 = new Promise(function(resolve, reject) {
       certainLabelSchoolList.map(function(e, index) {
-        t_html1 = `<div class="col-md-3" style="background-color:${e.colorHead}; color:#323B26; font-size: x-large; font-weight:bold; border:2px white solid;">${e.id} ${e.type}</div>
+        t_html1 = `<div class="col-md-3" style="background-color:${e.colorHead}; color:#323B26; font-size: x-large; font-weight:bold; border:2px white solid;">${e.code} ${e.type}</div>
                         <div class="col-md-9" style="background-color:${e.colorEnd}; color:#323B26; font-size: x-large; font-weight:bold; border:2px white solid;" >
                         <a href=${e.link} target="blank" style="">${e.name} </a> `;
         t_html1 += `<span style="float:right; "><a href="${e.quota}" target="_blank" style=""><i class="fas fa-search fa-fw" style="color:black"></i></a></span>`;
