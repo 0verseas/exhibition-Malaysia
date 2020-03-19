@@ -15,6 +15,7 @@ var schoolList = [
     colorHead:"#ED97BE",
     colorEnd: "#F7E7F0",
     type:"金融/經濟/管理",
+    locate:"離島地區",
     link:"",
     quota:"",
     schoolid:"80",
@@ -26,6 +27,7 @@ var schoolList = [
     colorHead:"#ED97BE",
     colorEnd: "#F7E7F0",
     type:"金融/經濟/管理",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"16",
@@ -37,6 +39,7 @@ var schoolList = [
     colorHead:"#ED97BE",
     colorEnd: "#F7E7F0",
     type:"金融/經濟/管理",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"C3",
@@ -48,6 +51,7 @@ var schoolList = [
     colorHead:"#ED97BE",
     colorEnd: "#F7E7F0",
     type:"金融/經濟/管理",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"04",
@@ -59,6 +63,7 @@ var schoolList = [
     colorHead:"#ED97BE",
     colorEnd: "#F7E7F0",
     type:"金融/經濟/管理",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"84",
@@ -70,6 +75,7 @@ var schoolList = [
     colorHead:"#ED97BE",
     colorEnd: "#F7E7F0",
     type:"金融/經濟/管理",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"C5",
@@ -81,6 +87,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"48",
@@ -92,6 +99,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"E4",
@@ -103,6 +111,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"89s",
@@ -114,6 +123,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"36",
@@ -125,6 +135,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"59",
@@ -136,6 +147,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"82",
@@ -147,6 +159,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"40",
@@ -158,6 +171,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"D8",
@@ -169,6 +183,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"33",
@@ -180,6 +195,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"中部地區",
     link:"https://www.faatum.com.my/朝陽科技科技大學",
     quota:"",
     schoolid:"86",
@@ -191,6 +207,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"49",
@@ -202,6 +219,7 @@ var schoolList = [
     colorHead:"#9BD7EF",
     colorEnd: "#D0EBF4",
     type:"藝術/傳播/設計",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"34",
@@ -213,6 +231,7 @@ var schoolList = [
     colorHead:"#9DC7B2",
     colorEnd: "#E5F2E9",
     type:"餐飲/休閒/運動",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"93",
@@ -224,6 +243,7 @@ var schoolList = [
     colorHead:"#9DC7B2",
     colorEnd: "#E5F2E9",
     type:"餐飲/休閒/運動",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"C6",
@@ -235,6 +255,7 @@ var schoolList = [
     colorHead:"#9DC7B2",
     colorEnd: "#E5F2E9",
     type:"餐飲/休閒/運動",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"B3",
@@ -246,6 +267,7 @@ var schoolList = [
     colorHead:"#9DC7B2",
     colorEnd: "#E5F2E9",
     type:"餐飲/休閒/運動",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"C2",
@@ -257,6 +279,7 @@ var schoolList = [
     colorHead:"#9DC7B2",
     colorEnd: "#E5F2E9",
     type:"餐飲/休閒/運動",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"51",
@@ -268,6 +291,7 @@ var schoolList = [
     colorHead:"#9DC7B2",
     colorEnd: "#E5F2E9",
     type:"餐飲/休閒/運動",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"A5",
@@ -279,6 +303,7 @@ var schoolList = [
     colorHead:"#9DC7B2",
     colorEnd: "#E5F2E9",
     type:"餐飲/休閒/運動",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"50",
@@ -290,6 +315,7 @@ var schoolList = [
     colorHead:"#9DC7B2",
     colorEnd: "#E5F2E9",
     type:"餐飲/休閒/運動",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"83",
@@ -301,6 +327,7 @@ var schoolList = [
     colorHead:"#FF908C",
     colorEnd: "#FFDFDE",
     type:"資訊/工程/土木",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"97",
@@ -312,6 +339,7 @@ var schoolList = [
     colorHead:"#FF908C",
     colorEnd: "#FFDFDE",
     type:"資訊/工程/土木",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"A8",
@@ -323,6 +351,7 @@ var schoolList = [
     colorHead:"#F6D87E",
     colorEnd: "#FBF6E9",
     type:"醫藥/治療/護理",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"67",
@@ -334,6 +363,7 @@ var schoolList = [
     colorHead:"#F6D87E",
     colorEnd: "#FBF6E9",
     type:"醫藥/治療/護理",
+    locate:"北部地區",
     link:"https://www.faatum.com.my/國立臺北護理健康大",
     quota:"",
     schoolid:"85",
@@ -345,6 +375,7 @@ var schoolList = [
     colorHead:"#F6D87E",
     colorEnd: "#FBF6E9",
     type:"醫藥/治療/護理",
+    locate:"東部地區",
     link:"",
     quota:"",
     schoolid:"B4",
@@ -356,6 +387,7 @@ var schoolList = [
     colorHead:"#F6D87E",
     colorEnd: "#FBF6E9",
     type:"醫藥/治療/護理",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"66",
@@ -367,6 +399,7 @@ var schoolList = [
     colorHead:"#F6D87E",
     colorEnd: "#FBF6E9",
     type:"醫藥/治療/護理",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"A6",
@@ -378,6 +411,7 @@ var schoolList = [
     colorHead:"#F6D87E",
     colorEnd: "#FBF6E9",
     type:"醫藥/治療/護理",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"A3",
@@ -389,6 +423,7 @@ var schoolList = [
     colorHead:"#C8C8A9",
     colorEnd: "#EEEEE5",
     type:"心理/教育/文史",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"F0",
@@ -400,6 +435,7 @@ var schoolList = [
     colorHead:"#C8C8A9",
     colorEnd: "#EEEEE5",
     type:"心理/教育/文史",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"18",
@@ -411,6 +447,7 @@ var schoolList = [
     colorHead:"#C8C8A9",
     colorEnd: "#EEEEE5",
     type:"心理/教育/文史",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"B2",
@@ -422,6 +459,7 @@ var schoolList = [
     colorHead:"#C8C8A9",
     colorEnd: "#EEEEE5",
     type:"心理/教育/文史",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"26",
@@ -433,6 +471,7 @@ var schoolList = [
     colorHead:"#F4AF75",
     colorEnd: "#FBE4D1",
     type:"海洋/森林/農業",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"74",
@@ -444,6 +483,7 @@ var schoolList = [
     colorHead:"#F4AF75",
     colorEnd: "#FBE4D1",
     type:"海洋/森林/農業",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"03",
@@ -455,6 +495,7 @@ var schoolList = [
     colorHead:"#F4AF75",
     colorEnd: "#FBE4D1",
     type:"海洋/森林/農業",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"09",
@@ -466,6 +507,7 @@ var schoolList = [
     colorHead:"#F4AF75",
     colorEnd: "#FBE4D1",
     type:"海洋/森林/農業",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"14",
@@ -477,6 +519,7 @@ var schoolList = [
     colorHead:"#F8BBBD",
     colorEnd: "#FCE3E4",
     type:"全英語教學",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"38",
@@ -488,6 +531,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"臺灣綜合大學系統",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"05",
@@ -499,6 +543,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"臺灣綜合大學系統",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"06",
@@ -510,6 +555,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"臺灣綜合大學系統",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"02",
@@ -521,6 +567,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"臺北聯合大學系統",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"73",
@@ -532,6 +579,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"臺北聯合大學系統",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"69",
@@ -543,6 +591,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"臺北聯合大學系統",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"10",
@@ -554,6 +603,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"國立臺灣大學系統",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"01",
@@ -565,6 +615,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"國立臺灣大學系統",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"FF",
@@ -576,6 +627,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"國立臺灣大學系統",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"71",
@@ -587,6 +639,7 @@ var schoolList = [
     colorHead:"#DED5C6",
     colorEnd: "#F6F1EB",
     type:"中山高醫攻頂聯盟",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"19",
@@ -598,6 +651,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"61",
@@ -609,6 +663,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"46",
@@ -620,6 +675,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"東部地區",
     link:"",
     quota:"",
     schoolid:"08",
@@ -631,6 +687,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"75",
@@ -642,6 +699,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"44",
@@ -653,6 +711,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"41",
@@ -664,6 +723,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"92",
@@ -675,6 +735,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"99",
@@ -686,6 +747,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"98",
@@ -697,6 +759,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"72",
@@ -708,6 +771,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"27",
@@ -719,6 +783,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"81",
@@ -730,6 +795,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"E0",
@@ -741,6 +807,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"42",
@@ -752,6 +819,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"45",
@@ -763,6 +831,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"55",
@@ -774,6 +843,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"39",
@@ -785,6 +855,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"17",
@@ -796,6 +867,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"23",
@@ -807,6 +879,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"C8",
@@ -818,6 +891,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"57",
@@ -829,6 +903,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"C1",
@@ -840,6 +915,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"中部地區",
     link:"",
     quota:"",
     schoolid:"60",
@@ -851,6 +927,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"南部地區",
     link:"",
     quota:"",
     schoolid:"87",
@@ -862,6 +939,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"15",
@@ -873,6 +951,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"13",
@@ -884,6 +963,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"https://www.faatum.com.my/國立陽明交通大學/",
     quota:"",
     quota2:"",
@@ -897,6 +977,7 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"37",
@@ -909,22 +990,33 @@ var schoolList = [
     colorHead:"#B7CED7",
     colorEnd: "#ECF3F9",
     type:"綜合展區",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"C4",
   }
 ]
 
+var schoolType = '全部';
+var schoolCode = 'ABCDEFGHIJ';
+var schoolLocate = '全部';
+
  const $banner = $('#banner'); // 8個標籤
- const $schhoLabel = $('.schoolLabel'); // 8個標籤
+ const $schooLabel = $('.schoolLabel'); // 8個標籤
+ const $schoolLocate = $('.schoolLocate'); // 8個標籤
  const $allSchool = $('#allSchool'); // 顯示所有學校區域
  const $certainLabelSchool = $('#certainLabelSchool'); // 顯示選取標籤學校區域
+ const $featureMenuButton = $('#featureMenuButton');
+ const $locationMenuButton = $('#locationMenuButton');
+ const $resetButton = $('#resetButton');
  var radios = 0;
  let selectedlabel = '全部';
  
  
 
- $schhoLabel.on('click', showAppointLabelSchool);
+ $schooLabel.on('click', changeSelectLabel);
+ $schoolLocate.on('click', changeSelectLocate);
+ $resetButton.on('click', resetSelect)
 
  init();
 
@@ -952,6 +1044,7 @@ function changesystem(){
   }
   showAppointLabelSchool();
 }
+
 function generateLink(id){
   let link = "https://student.overseas.ncnu.edu.tw/quota/";
   switch(radios){
@@ -1036,20 +1129,66 @@ function showAllSchool(){
     document.getElementById("col_list_3").innerHTML = value[2];
   });
 }
+
+function resetSelect(){
+  schoolType = "全部";
+  schoolCode = "ABCDEFGHIJ";
+  schoolLocate = "全部"
+
+  $featureMenuButton.text("展區選擇─全部");
+  $locationMenuButton.text("地區選擇─全部");
+
+  showAppointLabelSchool();
+
+}
+
+function changeSelectLabel(){
+  schoolType = $(this).data('label') ;
+  schoolCode = $(this).data('value') ;
+
+  $featureMenuButton.text("展區選擇─"+schoolType);
+  $locationMenuButton.text("地區選擇─"+schoolLocate);
+
+  showAppointLabelSchool();
+}
+
+function changeSelectLocate(){
+  schoolLocate = $(this).data('locate') ;
+
+  $featureMenuButton.text("展區選擇─"+schoolType);
+  $locationMenuButton.text("地區選擇─"+schoolLocate);
+
+  showAppointLabelSchool();
+}
+
 function showAppointLabelSchool(){
-  let data_label =  $(this).data('label') ;
-  let data_value =  $(this).data('value') ;
+  let data_label =  schoolType;
+  let data_value =  schoolCode;
+  let data_locate =  schoolLocate;
+
+  console.log(data_label);
+  console.log(data_value);
+  console.log(data_locate);
+
   if(data_label===undefined)
     data_label = selectedlabel;
   else
     selectedlabel = data_label;
-  if( data_label == "全部" ) { 
+  if( data_label == "全部" && data_locate == "全部") { 
     showAllSchool();
     $allSchool.show();
     $certainLabelSchool.hide();
   }
   else{
-    var certainLabelSchoolList = schoolList.filter(function(e) { return e.type.includes(data_label)|| e.code.includes(data_value) });
+
+    if(data_locate == "全部"){
+      var certainLabelSchoolList = schoolList.filter(function(e) { return e.type.includes(data_label)|| e.code.includes(data_value)});
+    } else if(data_label == "全部"){
+      var certainLabelSchoolList = schoolList.filter(function(e) { return e.locate.includes(data_locate)});
+    }
+    else {
+      var certainLabelSchoolList = schoolList.filter(function(e) { return (e.type.includes(data_label)|| e.code.includes(data_value))&& e.locate.includes(data_locate)});
+    }
 
     var show='', t_html1='';
     
