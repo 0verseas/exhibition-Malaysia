@@ -1166,10 +1166,6 @@ function showAppointLabelSchool(){
   let data_value =  schoolCode;
   let data_locate =  schoolLocate;
 
-  console.log(data_label);
-  console.log(data_value);
-  console.log(data_locate);
-
   if(data_label===undefined)
     data_label = selectedlabel;
   else
@@ -1178,6 +1174,7 @@ function showAppointLabelSchool(){
     showAllSchool();
     $allSchool.show();
     $certainLabelSchool.hide();
+    $('html,body').animate({scrollTop:$('#allSchool').offset().top},"show");  // jquery 滑動
   }
   else{
 
@@ -1218,6 +1215,7 @@ function showAppointLabelSchool(){
       document.getElementById("col_list_5").innerHTML = value;
       $allSchool.hide();
       $certainLabelSchool.show();
+      $('html,body').animate({scrollTop:$('#certainLabelSchool').offset().top},"show");  // jquery 滑動
     });
   }
 }
