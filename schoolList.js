@@ -628,12 +628,24 @@ var schoolList = [
     colorEnd: "#F6F1EB",
     type:"國立臺灣大學系統",
     locate:"北部地區",
+    link:"https://www.faatum.com.my/國立臺灣師範大學校本部",
+    quota:"",
+    schoolid:"07",
+  },
+  {
+    id:"53",
+    code:"I3",
+    name:"國立臺灣師範大學僑生先修部",
+    colorHead:"#DED5C6",
+    colorEnd: "#F6F1EB",
+    type:"國立臺灣大學系統",
+    locate:"北部地區",
     link:"",
     quota:"",
     schoolid:"FF",
   },
   {
-    id:"53",
+    id:"54",
     code:"I4",
     name:"國立中山大學",
     colorHead:"#DED5C6",
@@ -645,7 +657,7 @@ var schoolList = [
     schoolid:"19",
   },
   {
-    id:"54",
+    id:"55",
     code:"J",
     name:"大仁科技大學",
     colorHead:"#B7CED7",
@@ -657,7 +669,7 @@ var schoolList = [
     schoolid:"99",
   },
   {
-    id:"55",
+    id:"56",
     code:"J",
     name:"中原大學",
     colorHead:"#B7CED7",
@@ -669,7 +681,7 @@ var schoolList = [
     schoolid:"61",
   },
   {
-    id:"56",
+    id:"57",
     code:"J",
     name:"中國科技大學",
     colorHead:"#B7CED7",
@@ -681,7 +693,7 @@ var schoolList = [
     schoolid:"98",
   },
   {
-    id:"57",
+    id:"58",
     code:"J",
     name:"元智大學",
     colorHead:"#B7CED7",
@@ -693,7 +705,7 @@ var schoolList = [
     schoolid:"57",
   },
   {
-    id:"58",
+    id:"59",
     code:"J",
     name:"天主教輔仁大學",
     colorHead:"#B7CED7",
@@ -705,7 +717,7 @@ var schoolList = [
     schoolid:"45",
   },
   {
-    id:"59",
+    id:"60",
     code:"J",
     name:"宏國德霖科技大學",
     colorHead:"#B7CED7",
@@ -717,7 +729,7 @@ var schoolList = [
     schoolid:"C8",
   },
   {
-    id:"60",
+    id:"61",
     code:"J",
     name:"東吳大學",
     colorHead:"#B7CED7",
@@ -729,7 +741,7 @@ var schoolList = [
     schoolid:"55",
   },
   {
-    id:"61",
+    id:"62",
     code:"J",
     name:"東南科技大學",
     colorHead:"#B7CED7",
@@ -741,7 +753,7 @@ var schoolList = [
     schoolid:"C1",
   },
   {
-    id:"62",
+    id:"63",
     code:"J",
     name:"東海大學",
     colorHead:"#B7CED7",
@@ -753,7 +765,7 @@ var schoolList = [
     schoolid:"39",
   },
   {
-    id:"63",
+    id:"64",
     code:"J",
     name:"長榮大學",
     colorHead:"#B7CED7",
@@ -765,7 +777,7 @@ var schoolList = [
     schoolid:"46",
   },
   {
-    id:"64",
+    id:"65",
     code:"J",
     name:"南華大學",
     colorHead:"#B7CED7",
@@ -777,7 +789,7 @@ var schoolList = [
     schoolid:"60",
   },
   {
-    id:"65",
+    id:"66",
     code:"J",
     name:"南臺科技大學",
     colorHead:"#B7CED7",
@@ -789,7 +801,7 @@ var schoolList = [
     schoolid:"87",
   },
   {
-    id:"66",
+    id:"67",
     code:"J",
     name:"國立中央大學",
     colorHead:"#B7CED7",
@@ -801,7 +813,7 @@ var schoolList = [
     schoolid:"15",
   },
   {
-    id:"67",
+    id:"68",
     code:"J",
     name:"國立東華大學",
     colorHead:"#B7CED7",
@@ -813,7 +825,7 @@ var schoolList = [
     schoolid:"08",
   },
   {
-    id:"68",
+    id:"69",
     code:"J",
     name:"國立政治大學",
     colorHead:"#B7CED7",
@@ -825,7 +837,7 @@ var schoolList = [
     schoolid:"13",
   },
   {
-    id:"69",
+    id:"70",
     code:"J",
     name:"國立高雄科技大學",
     colorHead:"#B7CED7",
@@ -837,7 +849,7 @@ var schoolList = [
     schoolid:"75",
   },
   {
-    id:"70",
+    id:"71",
     code:"J",
     name:"國立高雄師範大學",
     colorHead:"#B7CED7",
@@ -849,7 +861,7 @@ var schoolList = [
     schoolid:"27",
   },
   {
-    id:"71",
+    id:"72",
     code:"J",
     name:"國立清華大學",
     colorHead:"#B7CED7",
@@ -861,7 +873,7 @@ var schoolList = [
     schoolid:"17",
   },
   {
-    id:"72",
+    id:"73",
     code:"J",
     name:"國立陽明/交通大學",
     colorHead:"#B7CED7",
@@ -875,7 +887,7 @@ var schoolList = [
     schoolid2:"11",
   },
   {
-    id:"73",
+    id:"74",
     code:"J",
     name:"國立雲林科技大學",
     colorHead:"#B7CED7",
@@ -887,7 +899,7 @@ var schoolList = [
     schoolid:"72",
   },
   {
-    id:"74",
+    id:"75",
     code:"J",
     name:"國立勤益科技大學",
     colorHead:"#B7CED7",
@@ -899,7 +911,7 @@ var schoolList = [
     schoolid:"81",
   },
   {
-    id:"75",
+    id:"76",
     code:"J",
     name:"國立彰化師範大學",
     colorHead:"#B7CED7",
@@ -911,7 +923,7 @@ var schoolList = [
     schoolid:"23",
   },
   {
-    id:"76",
+    id:"77",
     code:"J",
     name:"淡江大學",
     colorHead:"#B7CED7",
@@ -923,7 +935,7 @@ var schoolList = [
     schoolid:"37",
   },
   {
-    id:"77",
+    id:"78",
     code:"J",
     name:"逢甲大學",
     colorHead:"#B7CED7",
@@ -935,7 +947,7 @@ var schoolList = [
     schoolid:"44",
   },
   {
-    id:"78",
+    id:"79",
     code:"J",
     name:"義守大學",
     colorHead:"#B7CED7",
@@ -947,7 +959,7 @@ var schoolList = [
     schoolid:"41",
   },
   {
-    id:"79",
+    id:"80",
     code:"J",
     name:"臺北市立大學",
     colorHead:"#B7CED7",
@@ -959,7 +971,7 @@ var schoolList = [
     schoolid:"E0",
   },
   {
-    id:"80",
+    id:"81",
     code:"J",
     name:"輔英科技大學",
     colorHead:"#B7CED7",
@@ -971,7 +983,7 @@ var schoolList = [
     schoolid:"92",
   },
   {
-    id:"81",
+    id:"82",
     code:"J",
     name:"醒吾科技大學",
     colorHead:"#B7CED7",
@@ -984,7 +996,7 @@ var schoolList = [
   }
   ,
   {
-    id:"82",
+    id:"83",
     code:"J",
     name:"靜宜大學",
     colorHead:"#B7CED7",
@@ -1022,13 +1034,13 @@ var schoolLocate = '全部';
 
 
 function init(){
-  for(let i =0 ; i<82 ;i++){
+  for(let i =0 ; i<83 ;i++){
     schoolList[i].quota = generateLink(schoolList[i].schoolid);
     if(!schoolList[i].link){
       schoolList[i].link = "https://www.faatum.com.my/"+schoolList[i].name+"/"
     }
   }
-  schoolList[71].quota2 = generateLink(schoolList[71].schoolid2);
+  schoolList[72].quota2 = generateLink(schoolList[72].schoolid2);
   // $banner.fadeIn(1000);
   // $banner.fadeOut(2000);
   showAllSchool();
@@ -1036,7 +1048,7 @@ function init(){
 
 function changesystem(){
   radios = document.querySelector('input[name="SchoolSystem"]:checked').value;
-  for(let i =0 ; i<82 ;i++){
+  for(let i =0 ; i<83 ;i++){
     schoolList[i].quota = generateLink(schoolList[i].schoolid);
     if(!schoolList[i].link){
       schoolList[i].link = "https://www.faatum.com.my/"+schoolList[i].name+"/"
@@ -1086,7 +1098,7 @@ function showAllSchool(){
         show[0] += t_html1;
       }
 
-      if( 28 <= index && index <= 54 ){
+      if( 28 <= index && index <= 55 ){
         t_html2 = `<div class="col-md-2" style="background-color:${e.colorHead}; color:#323B26; font-size: x-large; font-weight:bold; border:2px white solid;">${e.code}</div>
                         <div class="col-md-10" style="background-color:${e.colorEnd}; color:#323B26; font-size: x-large; font-weight:bold; border:2px white solid;" >
                         <a href=${e.link} target="blank" style="">${e.name} </a> `;
@@ -1101,7 +1113,7 @@ function showAllSchool(){
         show[1] += t_html2;
       }
 
-      if( 55 <= index && index <= 81 ){
+      if( 56 <= index && index <= 82 ){
         t_html3 = `<div class="col-md-2" style="background-color:${e.colorHead}; color:#323B26; font-size: x-large; font-weight:bold; border:2px white solid;">${e.code}</div>
                         <div class="col-md-10" style="background-color:${e.colorEnd}; color:#323B26; font-size: x-large; font-weight:bold; border:2px white solid;" >
                         <a href=${e.link} target="blank" style="">${e.name} </a> `;
